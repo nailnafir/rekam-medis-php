@@ -1,0 +1,113 @@
+.fotoPasien{
+    width: 200px;
+    height: 240px;
+    display: block;
+    border-radius: 4px;
+    border:4px solid #ddd;
+}
+body{
+    
+}
+.clear{
+	clear:both;
+}
+
+nav,header,section,footer {
+	margin:10px 10px 0 10px;} 
+}
+.clear{
+	clear:both;
+	height:300px;
+}
+.info_akses{
+	background:#fff;
+}
+.info_akses  h4{
+	background:#63a0bc;
+	color:#fff;
+	font-size:15px;
+	padding:5px;
+}
+.info_akses span{
+	line-height:30px;
+	display:block;
+	color:#878787;
+}
+.info_akses .form{
+	line-height:30px;
+	display:block;
+	margin-left:20px;
+	color:#727272;
+	font-size:16px;
+}
+.info_akses .foto{
+	width:180px;
+	height:250px;
+	opacity:.750;
+	cursor:pointer;
+
+}
+.info_akses .foto:hover{
+	opacity:.999;
+}
+.fotos{
+	width:180px;
+	height:250px;
+	opacity:.750;
+	cursor:pointer;
+	margin:5px;
+}
+.fotos:hover{
+	opacity:.999;
+}
+.thumb{
+	background:#f9f9f9;
+	padding:10px;
+}
+.logo{
+	background:#fff;
+	border:1px solid #eee;
+}
+table .head{
+	background:#52add7;
+	color:#fff;
+	font-size:15px;
+	
+}
+table .head1{
+	background:#007dcc;
+	color:#fff;
+	font-size:15px;
+}
+table .head2{
+	background:#5dbb5d;
+	color:#fff;
+	font-size:15px;
+}
+table .head3{
+	background:#d54a44;
+	color:#fff;
+	font-size:15px;
+}
+.pop{
+	list-style:none;
+}
+.hasil_cari{
+	padding:20px;
+	background:#eee;
+}
+.rm_text{
+	padding:10px;
+	background:#ffa9a5;
+}
+.apotek_text{
+	background:#309975;
+	padding:10px;
+	color:#fff;
+}
+.pegawai td{
+    font-size: 12px;
+}
+.center{
+    text-align: center;
+}

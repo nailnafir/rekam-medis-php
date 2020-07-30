@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+	font-family:tahoma, 'sans-serif';
+}
+.kop{
+    line-height: 20px;
+}
+.table{
+	border-collapse:collapse;
+}
+.table .head td{
+	background:#fff;	
+	text-align:center;
+	font-size:14px;
+	font-weight:bold;
+}
+.table tr td{
+	border:1px solid #eee;
+	padding:5px;
+	font-size:9px;
+}
+.tbl1{
+    
+}
+.tbl2{
+    margin-left: 350px;
+}
+.ttd{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.ttd .head td{
+		
+	text-align:center;
+	font-size:14px;
+	font-weight:bold;
+}
+.ttd tr td{
+	padding:5px;
+	font-size:9px;
+}

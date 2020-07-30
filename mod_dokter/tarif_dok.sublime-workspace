@@ -1,0 +1,459 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"sr",
+				"script"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"pil",
+				"pilih"
+			],
+			[
+				"Sekilas",
+				"sekilasinfo"
+			],
+			[
+				"id",
+				"idtanya"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"jmlh",
+				"jmlh_obat"
+			],
+			[
+				"mysqli_num",
+				"mysqli_num_rows"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"co",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/webserver/bukutamu/admin/index.php",
+			"settings":
+			{
+				"buffer_size": 421,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/webserver/bukutamu/admin/cek_login.php",
+			"settings":
+			{
+				"buffer_size": 446,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/webserver/bukutamu/admin/media.php",
+			"settings":
+			{
+				"buffer_size": 211,
+				"line_ending": "Windows",
+				"name": "<?php"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/webserver/bukutamu",
+		"/D/webserver/bukutamu/admin"
+	],
+	"file_history":
+	[
+		"/D/webserver/tanyaapa/adminweb/activasi/cari_akun.php",
+		"/D/webserver/tanyaapa/adminweb/activasi/proses.php",
+		"/D/webserver/tanyaapa/adminweb/activasi/active_akun.php",
+		"/D/webserver/tanyaapa/adminweb/css/aktivasi.css",
+		"/D/webserver/tanyaapa/adminweb/media.php",
+		"/D/webserver/tanyaapa/index.php",
+		"/D/webserver/tanyaapa/adminweb/index.php",
+		"/D/webserver/tanyaapa/adminweb/cari_akun.php",
+		"/D/webserver/tanyaapa/adminweb/active_akun.php",
+		"/D/webserver/tanyaapa/adminweb/css/style.css",
+		"/D/webserver/tanyaapa/config/koneksi.php",
+		"/D/webserver/tanyaapa/adminweb/cek_login.php",
+		"/D/webserver/tanyaapa/adminweb/css_login/style.default.css",
+		"/D/webserver/tanyaapa/adminweb/css_login/custom.css",
+		"/D/webserver/tanyaapa/w3layouts-License.txt",
+		"/D/webserver/web/index.html",
+		"/D/webserver/web/css/style.css",
+		"/D/webserver/ujian/media.php",
+		"/D/webserver/bukutamu/admin/cek_login.php",
+		"/D/webserver/bukutamu/index.php",
+		"/D/webserver/bukutamu/proses.php",
+		"/D/webserver/bukutamu/config/koneksi.php",
+		"/D/webserver/bukutamu/admin/index.php",
+		"/C/Users/Martinus Sarumaha/Desktop/coba.html",
+		"//192.168.1.10/enoni/temp/css/custom.css",
+		"//192.168.1.10/enoni/temp/template.php",
+		"//192.168.1.10/enonida/temp/css/responsive.css",
+		"//192.168.1.10/enonida/temp/style.css",
+		"//192.168.1.10/enonida/temp/content.php",
+		"//192.168.1.10/enonida/temp/template.php",
+		"//192.168.1.10/enonida/temp/css/reset.css",
+		"//YAS-PC/enoni/temp/template.php",
+		"//192.168.1.10/enonida/temp/header.php",
+		"//192.168.1.10/enonida/temp2/css/bootstrap-responsive.min.css",
+		"//192.168.1.10/enonida/temp2/css/bootstrap.min.css",
+		"//YAS-PC/enonida/temp/widgets.php",
+		"//192.168.1.10/enonida/adminweb/modul/mod_poling/hasil.php",
+		"//192.168.1.10/enonida/temp/widgets.php",
+		"//YAS-PC/enonida/temp/template.php",
+		"//YAS-PC/enonida/temp/style.css",
+		"/D/webserver/enoni_nisut2/adminweb/modul/mod_poling/poling.php",
+		"/D/webserver/enoni_nisut2/adminweb/modul/mod_poling/aksi_poling.php",
+		"/D/webserver/enoni_nisut2/adminweb/content.php",
+		"/D/webserver/enoni_nisut2/temp/template.php",
+		"/D/webserver/enoni_nisut2/temp/widgets.php",
+		"/D/webserver/enoni_nisut2/temp/content.php",
+		"/D/webserver/enoni_nisut2/temp/header.php",
+		"/D/webserver/enoni_nisut2/adminweb/modul/mod_poling/hasil.php",
+		"//192.168.1.10/enoni_nisut2/temp/template.php",
+		"//192.168.1.10/enoni_nisut2/index.php",
+		"//192.168.1.10/enoni_nisut2/downlot.php",
+		"//192.168.1.10/enoni_nisut2/temp/kiri.php",
+		"/C/Users/Martinus Sarumaha/Desktop/lencanafb.html",
+		"/D/webserver/lokomedia/templates/lokobootstrap/template.php",
+		"/D/webserver/ujian/css/style.css",
+		"/D/webserver/ujian/index.php",
+		"/D/webserver/apklinik/mod_rm/aksi_inputob.php",
+		"/D/webserver/apklinik/kontent.php",
+		"/D/webserver/apklinik/mod_rm/rekam_medik.php",
+		"/D/webserver/apklinik/mod_rm/input_resep.php",
+		"/D/webserver/apklinik/mod_rm/input_obat.php",
+		"/D/webserver/apklinik/mod_rm/aksi_rm.php",
+		"/D/webserver/apklinik/laporan/data_obat.php",
+		"/D/webserver/apklinik/media.php",
+		"/D/webserver/apklinik/mod_dataobat/aksi_dataobat.php",
+		"/D/webserver/apklinik/mod_dataobat/cari.php",
+		"/D/webserver/apklinik/mod_dataobat/dataobat.php",
+		"/D/webserver/apklinik/mod_apotek/apotek.php",
+		"/D/Web Design/adminpanel/style/style.css",
+		"/D/Web Design/adminpanel/index.html",
+		"/C/Users/Martinus Sarumaha/AppData/Local/Temp/Rar$EXa0.743/web/index.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fo",
+			"main",
+			"5",
+			"main",
+			"effect2",
+			"slides/header2.jpg",
+			"http://192.168.1.10/enoni/temp/images/slides/header2.jpg",
+			"widt",
+			"widget",
+			"slider",
+			"footer",
+			"slideshow",
+			"@media",
+			"clea",
+			"listticker",
+			"hasil-po",
+			"hasil",
+			"poll-bar",
+			"Masukkan Keluhan",
+			"txtobat",
+			"input_obat",
+			"Masukkan Keluhan :",
+			"data reka"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/webserver/bukutamu/admin/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/webserver/bukutamu/admin/cek_login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 446,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								337,
+								268
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/webserver/bukutamu/admin/media.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								208,
+								208
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tarif_dok.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
