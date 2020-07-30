@@ -1,3 +1,4 @@
 # rekam-medis-php
 
-# login dengan admin admin
+username : admin
+password : admin
